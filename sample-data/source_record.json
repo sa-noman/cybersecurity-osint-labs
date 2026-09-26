@@ -1,0 +1,10 @@
+{
+  "claim": "A fictional city launched a public digital archive.",
+  "source_url": "https://example.com/news/archive-launch",
+  "publisher": "Example Newsroom",
+  "author": "A. Reporter",
+  "published_at": "2026-09-20",
+  "archive_url": "https://example.com/archive/example-record",
+  "corroborating_sources": ["https://example.org/official/announcement"],
+  "notes": "Sample record for source-verification practice."
+}
